@@ -28,3 +28,10 @@ I'm passionate in web and AI development and I am eager to learn new technologie
   <img src="https://img.shields.io/badge/Apache Cordova-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-6e5494" />
 </p>
 
+![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+
+
+#### Oh! also did a bit of graphics design on the side...
+
+<a href="https://drive.google.com/file/d/1OtDcjdbJvjm13w4QHmP8kHmEy2pz0ds9/view?usp=sharing" target="_blank"><img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/resume.png" width="30" height="30" alt="CV"/></a>
+
