@@ -1,4 +1,4 @@
-## Angelu Garingo | Mapúa University :purple_heart:
+## Angelu Garingo | Mapúa University 
 
 
 <a href="https://web.facebook.com/boredpenguinn/" target="_blank"><img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/fb.png" width="33" height="30" alt="FB"/></a> 
@@ -31,7 +31,7 @@ I'm passionate in web and AI development and I am eager to learn new technologie
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 
-#### Oh! also did a bit of graphics design on the side...
+#### :purple_heart: Oh! also did a bit of graphics design on the side...
 
 <a href="https://drive.google.com/file/d/1OtDcjdbJvjm13w4QHmP8kHmEy2pz0ds9/view?usp=sharing" target="_blank"><img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/resume.png" width="30" height="30" alt="CV"/></a>
 
