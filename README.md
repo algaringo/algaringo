@@ -7,9 +7,9 @@
 <a href="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/resume.md" target="_blank"><img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/resume.png" width="30" height="30" alt="CV"/></a>
 
 
-I'm a Computer Engineering student with a skill set in Full Stack Web Development. I Specialized in Microsoft .net during my early years at Mapúa University which covered C#.net, ASP.net & ADO.net and other technologies. I'm also proficient with Python (with Django framework) and Responsive Web Design.
+I'm a Computer Engineering student with a skill set in Full Stack Web Development. I Specialized in Microsoft .net during my early years at Mapúa University which covered technologies like C#.net, ASP.net, ADO.net and so on. But as Microsoft is soon shifting to .NET5 and leaving .net framework behind, I decided learn other technologies that aren't in the verge of dying lol. As of now, I am loving Python (with Django framework) and I'm also practicing more of Responsive Web Design.
 
-I'm passionate in web and AI development and I am eager to learn new technologies and adapt to new environments. 
+I am eager to learn new technologies and adapt to new environments. And yes, I'm still passionate in web development even though some might argue it's already a dying career :angry:
 
 
 ### Skills
@@ -22,8 +22,10 @@ I'm passionate in web and AI development and I am eager to learn new technologie
   <img src="https://img.shields.io/badge/Django-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-092e20" />
   <img src="https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-important" />
   <img src="https://img.shields.io/badge/ReactJs-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-01d9ff" /> 
-  <img src="https://img.shields.io/badge/MS SQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-F29111" /> 
+  <img src="https://img.shields.io/badge/Git-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-important" />
   <img src="https://img.shields.io/badge/SQLite-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-0064a5" /> 
+  <img src="https://img.shields.io/badge/MS SQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-F29111" /> 
+  <img src="https://img.shields.io/badge/CSharp.net-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-6e5494" />
   <img src="https://img.shields.io/badge/ASP.net-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-6e5494" />
   <img src="https://img.shields.io/badge/Apache Cordova-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-6e5494" />
 </p>
