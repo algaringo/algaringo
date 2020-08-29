@@ -1,4 +1,4 @@
-## Angelu Garingo | Mapúa University ![image title](https://rushter.com/counter.svg)
+## Angelu Garingo | Mapúa University 
 
 
 <a href="https://web.facebook.com/boredpenguinn/" target="_blank"><img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/fb.png" width="33" height="30" alt="FB"/></a> 
@@ -29,11 +29,20 @@ I am eager to learn new technologies and adapt to new environments. And yes, I'm
   <img src="https://img.shields.io/badge/ASP.net-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-6e5494" />
   <img src="https://img.shields.io/badge/Apache Cordova-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-6e5494" />
 </p>
+<br />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algaringo) &nbsp; &nbsp;
+![algaringo's github stats](https://github-readme-stats.vercel.app/api?username=algaringo&count_private=true)
+<br />
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+
 
 
 #### :purple_heart: Oh! also did a bit of graphics design on the side...
 
 <a href="https://drive.google.com/file/d/1OtDcjdbJvjm13w4QHmP8kHmEy2pz0ds9/view?usp=sharing" target="_blank"><img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/resume.png" width="30" height="30" alt="CV"/></a>
+
+<br />
+
+![Profile views](https://gpvc.arturio.dev/algaringo)
 
