@@ -31,7 +31,7 @@ I am eager to learn new technologies and adapt to new environments. And yes, I'm
 </p>
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algaringo) &nbsp; &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algaringo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![algaringo's github stats](https://github-readme-stats.vercel.app/api?username=algaringo&count_private=true)
 <br />
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
