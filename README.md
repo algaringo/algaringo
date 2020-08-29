@@ -1,8 +1,6 @@
 ## Angelu Garingo | Mapua University
 
-<br />
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
-<br />
 
 <a href="https://web.facebook.com/boredpenguinn/" target="_blank"><img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/fb.png" width="33" height="30" alt="FB"/></a> 
 <a href="https://www.linkedin.com/in/algaringo/" target="_blank"><img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/in.png" width="33" height="30" alt="in"/></a> 
