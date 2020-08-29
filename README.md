@@ -1,4 +1,4 @@
-## Angelu Garingo | Mapua University 
+## Angelu Garingo | Mapúa University 
 
 
 <a href="https://web.facebook.com/boredpenguinn/" target="_blank"><img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/fb.png" width="33" height="30" alt="FB"/></a> 
