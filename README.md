@@ -7,7 +7,7 @@
 <a href="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/resume.md" target="_blank"><img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/resume.png" width="30" height="30" alt="CV"/></a>
 
 
-I'm a Computer Engineering student with a skill set in Full Stack Web Development. I Specialized in Microsoft .net during my early years at Mapúa University which covered technologies like C#.net, ASP.net, ADO.net and so on. But as Microsoft is soon shifting to .NET5 and leaving .net framework behind, I decided to learn other technologies that aren't in the verge of dying lol. As of now, I am loving Python (with Django framework) and I'm also practicing more of Responsive Web Design.
+I'm a Computer Engineering student with a skill set in Full Stack Web Development. I Specialized in Microsoft .net during my early years at Mapúa University which covered technologies like C#.net, ASP.net, ADO.net and so on. But as Microsoft is soon shifting to .NET5 and leaving .net framework behind, I decided to learn other technologies that aren't on the verge of dying lol. As of now, I am loving Python (with Django framework) and I'm also practicing more of Responsive Web Design.
 
 I am eager to learn new technologies and adapt to new environments. And yes, I'm still passionate in web development even though some might argue it's already a dying career :angry:
 
