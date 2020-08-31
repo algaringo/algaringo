@@ -32,10 +32,3 @@ I am eager to learn new technologies and adapt to new environments. And yes, I'm
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algaringo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-#### :purple_heart: Oh! also did a bit of graphics design on the side...
-
-<a href="https://drive.google.com/file/d/1OtDcjdbJvjm13w4QHmP8kHmEy2pz0ds9/view?usp=sharing" target="_blank"><img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/resume.png" width="30" height="30" alt="CV"/></a>
-
