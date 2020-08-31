@@ -33,16 +33,9 @@ I am eager to learn new technologies and adapt to new environments. And yes, I'm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algaringo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
-
 
 
 #### :purple_heart: Oh! also did a bit of graphics design on the side...
 
 <a href="https://drive.google.com/file/d/1OtDcjdbJvjm13w4QHmP8kHmEy2pz0ds9/view?usp=sharing" target="_blank"><img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/resume.png" width="30" height="30" alt="CV"/></a>
-
-<br />
-
-(http://wayou.github.io/t-rex-runner/)![chrome offline game cast](assets/screenshot.gif)
 
