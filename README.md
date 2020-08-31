@@ -44,5 +44,5 @@ I am eager to learn new technologies and adapt to new environments. And yes, I'm
 
 <br />
 
-![Profile views](https://gpvc.arturio.dev/algaringo)
+(http://wayou.github.io/t-rex-runner/)![chrome offline game cast](assets/screenshot.gif)
 
