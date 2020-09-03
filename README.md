@@ -11,7 +11,7 @@ I'm a Computer Engineering student with a skill set in Full Stack Web Developmen
 
 As of now, I am loving Python (with Django framework) and I'm also practicing more of Responsive Web Design.I am eager to learn new technologies and adapt to new environments. And yes, I'm still passionate in web development even though some might argue it's already a dying career :angry: 
 
-My research interest inclused AI, web development, UI/UX design and web/graphics design!
+My research interest includes AI, web development, UI/UX design and web/graphics design!
 
 
 ### Skills
