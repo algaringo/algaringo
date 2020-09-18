@@ -16,20 +16,11 @@ My research interest includes AI, web development, UI/UX design and web/graphics
 
 ### Skills
 
+##### Frameworks
 <p>
-  <img src="https://img.shields.io/badge/HTML5-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-ff7851" /> 
-  <img src="https://img.shields.io/badge/CSS3-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-44b2fb" /> 
-  <img src="https://img.shields.io/badge/BootStrap4-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-563d7c" /> 
-  <img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-306998" /> 
-  <img src="https://img.shields.io/badge/Django-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-092e20" />
-  <img src="https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-important" />
-  <img src="https://img.shields.io/badge/ReactJs-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-01d9ff" /> 
-  <img src="https://img.shields.io/badge/Git-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-important" />
-  <img src="https://img.shields.io/badge/SQLite-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-0064a5" /> 
-  <img src="https://img.shields.io/badge/MS SQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-F29111" /> 
-  <img src="https://img.shields.io/badge/CSharp.net-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-6e5494" />
-  <img src="https://img.shields.io/badge/ASP.net-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-6e5494" />
-  <img src="https://img.shields.io/badge/Apache Cordova-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-6e5494" />
+<img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/html.png" width="33" height="30" alt="HTML"/>
+<img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/css.png" width="33" height="30" alt="CSS"/>
+<img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/javascript.png" width="33" height="30" alt="Javascript"/>
 </p>
 <br />
 
