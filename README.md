@@ -13,15 +13,20 @@ As of now, I am loving Python (with Django framework) and I'm also practicing mo
 
 My research interest includes AI, web development, UI/UX design and web/graphics design!
 
-
-### Skills
-
-##### Languages
+#### Languages
 <p>
-<img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/html.png" width="33" height="30" alt="HTML"/>
-<img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/css3.png" width="33" height="30" alt="CSS"/>
-<img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/javascript.png" width="33" height="30" alt="Javascript"/>
-<img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/python.png" width="33" height="30" alt="Python"/>
+<img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/html.png" width="44" height="41" alt="HTML"/>
+<img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/css3.png" width="53" height="50" alt="CSS"/>
+<img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/javascript.png" width="53" height="50" alt="Javascript"/>
+<img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/python.png" width="44" height="41" alt="Python"/>
+<img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/c.png" width="44" height="41" alt="Cpp"/>
+</p>
+
+#### Frameworks
+<p>
+<img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/bootstrap.png" width="44" height="41" alt="Bootstrap"/>
+<img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/django.png" width="44" height="41" alt="Django"/>
+<img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/jquery.png" width="44" height="41" alt="JQuery"/>
 </p>
 <br />
 
