@@ -20,6 +20,8 @@ My research interest includes AI, web development, UI/UX design and web/graphics
 <img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/javascript.png" width="53" height="50" alt="Javascript"/>
 <img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/python.png" width="44" height="41" alt="Python"/>
 <img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/c.png" width="44" height="41" alt="Cpp"/>
+<img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/csharp.png" width="44" height="41" alt="Csharp"/>
+<img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/php.png" width="44" height="41" alt="PHP"/>
 </p>
 
 #### Frameworks and Libraries
@@ -27,6 +29,7 @@ My research interest includes AI, web development, UI/UX design and web/graphics
 <img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/bootstrap.png" width="44" height="41" alt="Bootstrap"/>
 <img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/django.png" width="44" height="41" alt="Django"/>
 <img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/jquery.png" width="44" height="41" alt="JQuery"/>
+<img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/react.png" width="44" height="41" alt="React"/>
 </p>
 <br />
 
