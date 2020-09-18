@@ -1,4 +1,4 @@
-## Angelu Garingo | Mapúa University 
+## Angelu Garingo | Front-end Web Developer
 
 
 <a href="https://web.facebook.com/boredpenguinn/" target="_blank"><img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/fb.png" width="33" height="30" alt="FB"/></a> 
@@ -22,7 +22,7 @@ My research interest includes AI, web development, UI/UX design and web/graphics
 <img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/c.png" width="44" height="41" alt="Cpp"/>
 </p>
 
-#### Frameworks
+#### Frameworks and Libraries
 <p>
 <img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/bootstrap.png" width="44" height="41" alt="Bootstrap"/>
 <img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/django.png" width="44" height="41" alt="Django"/>
