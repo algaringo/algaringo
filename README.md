@@ -21,6 +21,7 @@ My research interest includes AI, web development, UI/UX design and web/graphics
 <img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/html.png" width="33" height="30" alt="HTML"/>
 <img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/css3.png" width="33" height="30" alt="CSS"/>
 <img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/javascript.png" width="33" height="30" alt="Javascript"/>
+<img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/python.png" width="33" height="30" alt="Python"/>
 </p>
 <br />
 
