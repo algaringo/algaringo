@@ -11,25 +11,6 @@ I'm a Computer Engineering student with a skill set in Full Stack Web Developmen
 
 My research interest includes AI, web development, UI/UX design and web/graphics design!
 
-#### Languages
-<p>
-<img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/html.png" width="24" height="21" alt="HTML"/>
-<img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/css3.png" width="24" height="21" alt="CSS"/>
-<img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/javascript.png" width="24" height="21" alt="Javascript"/>
-<img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/python.png" width="24" height="21" alt="Python"/>
-<img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/c.png" width="24" height="21" alt="Cpp"/>
-<img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/csharp.png" width="24" height="21" alt="Csharp"/>
-<img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/php.png" width="24" height="21" alt="PHP"/>
-</p>
-
-#### Frameworks and Libraries
-<p>
-<img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/bootstrap.png" width="24" height="21" alt="Bootstrap"/>
-<img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/jquery.png" width="24" height="21" alt="JQuery"/>
-<img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/react.png" width="24" height="21" alt="React"/>
-<img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/node.png" width="34" height="31" alt="NodeJS"/>
-<img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/django.png" width="34" height="31" alt="Django"/>
-</p>
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algaringo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
