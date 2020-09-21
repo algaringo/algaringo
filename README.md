@@ -27,8 +27,8 @@ My research interest includes AI, web development, UI/UX design and web/graphics
 <img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/bootstrap.png" width="24" height="21" alt="Bootstrap"/>
 <img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/jquery.png" width="24" height="21" alt="JQuery"/>
 <img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/react.png" width="24" height="21" alt="React"/>
-<img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/node.png" width="24" height="21" alt="NodeJS"/>
-<img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/django.png" width="24" height="21" alt="Django"/>
+<img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/node.png" width="34" height="31" alt="NodeJS"/>
+<img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/django.png" width="34" height="31" alt="Django"/>
 </p>
 <br />
 
