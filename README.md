@@ -2,21 +2,47 @@
 
 <br />
 
-### My latest projects
 
-<a href="https://github.com/WEGFan/codestats-profile-readme">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=algaringo&repo=algaringo.github.io" alt="My Personal Website" />
-</a>
-<a href="https://github.com/WEGFan/Geometry-Dash-Menu-Music-Randomizer">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=algaringo&repo=e-commerce-website" alt="E-commerce Website" />
-</a>
+<details>
+  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+  
+  <br>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algaringo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Recently I'm coding in...
+---
 
-<a href="https://codestats.net/users/algaringo">
-  <img src='https://codestats-readme.algaringo.cn/history-graph/algaringo?width=850&height=300&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="algaringo's Code::Stats history graph" />
-</a>
+### - Languages...
+
+<p align="center">
+
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+
+  <img src="https://raw.githubusercontent.com/algaringo/algaringo/master/icon/world.png" alt="angular" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/mobile.svg" alt="mobile_development" style="vertical-align:top; margin:4px">
+
+---
+
+</p>
+
+### - I'm currently...
+
+- Improving my React Native skills.
+- Learning to develop Mobile-first web-apps.
+- Learning React with Redux.
+- Adding databases to my skill set.
+
+---
+
+</details>
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algaringo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
