@@ -19,6 +19,7 @@ Hey there! I'm Angelu, a web developer … and a curious person.  Besides progra
 - Improving my React Native skills.
 - Learning React with Redux.
 - Improving my skills on database management.
+- Trying to cook/bake cool recipes I find online.
 - Trying to finish my degree, lol.
 
 ---
