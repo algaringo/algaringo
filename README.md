@@ -21,6 +21,7 @@ Hey there! I'm Angelu, a web developer … and a curious person.  Besides progra
 - Trying to cook/bake cool recipes I find online
 - Trying to stay fit whilst trying to fit 10 pizzas in my mouth kek
 - Trying to finish my degree T_T
+- Basically just trying
 
 ---
 
