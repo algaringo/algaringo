@@ -10,7 +10,7 @@
   
    🙋 | :octocat:
 ------------ | -------------
-Hey there! I'm Angelu, a web developer … and a curious person.  Besides programming, I enjoy reading, watching anime, kdramas, and any other forms of media that would help me drown out my own thoughts. Totally understandable if you would judge me based on my faves: [Anime] Steins Gate, Shinkegi no Kyojin. [Books] Circe, The Perks of Being a Wallflower, Tuesdays with Morrie. [TV series] It's Okay to Not Be Okay, How to Get Away with Murder. Oh, and I also like learning new things. | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algaringo&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <p align="center"> 011011010110010101101111011101110010000100100001  </p>
+Hey there! I'm Angelu, a web developer … and a curious person.  Besides programming, I enjoy reading, watching anime, kdramas, and any other form of media that would help me drown out my own thoughts. Totally understandable if you would judge me based on my faves: [Anime] Steins Gate, Shinkegi no Kyojin. [Books] Circe, The Perks of Being a Wallflower, Tuesdays with Morrie. [TV series] It's Okay to Not Be Okay, How to Get Away with Murder. Oh, and I also like learning new things. | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algaringo&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <p align="center"> 011011010110010101101111011101110010000100100001  </p>
 
 ---
 
