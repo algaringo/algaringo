@@ -16,8 +16,7 @@ Hey there! I'm Angelu, a web developer … and a curious person.  Besides progra
 
 ### I'm currently...
 
-- Improving my skills on database management
-- Trying to learn React with Redux
+- Trying to learn Java with Springboot and Microservices
 - Trying to cook/bake cool recipes I find online
 - Trying to finish my degree 
 - Basically just trying
