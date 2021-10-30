@@ -4,7 +4,7 @@
 
 
 <details>
-  <summary> <b> Things to know about me! </b> (click to expand) </summary>
+  <summary> </b> (click to expand) </summary>
   
 <br />
   
@@ -16,10 +16,7 @@ Hey there! I'm Angelu, a web developer … and a curious person.  Besides progra
 
 ### I'm currently...
 
-- Trying to learn Java with Springboot for my new role
-- Trying to cook/bake cool recipes I find online
-- Trying to finish my degree 
-- Basically just trying
+- 
 
 ---
 
