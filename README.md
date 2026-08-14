@@ -10,7 +10,7 @@
   
    🙋 | :octocat:
 ------------ | -------------
-Hey there! I'm Angelu, a curious person.  I enjoy reading, watching anime, kdramas, and any other form of media that would help me drown out my own thoughts.  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algaringo&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <p align="center"> 011011010110010101101111011101110010000100100001  </p>
+Hey there! I'm Angelu, a curious person. | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algaringo&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <p align="center"> 011011010110010101101111011101110010000100100001  </p>
 
 ---
 
